@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Quality Assurance Engineer working with Playwright and other testing tools.
+
 <!--
 **jeff-thoensen/jeff-thoensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
