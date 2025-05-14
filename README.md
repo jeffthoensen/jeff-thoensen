@@ -1,6 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeff Thoensen
 
-Quality Assurance Engineer working with Playwright and other testing tools.
+I’m a **Quality Assurance Engineer** focused on building reliable, maintainable, and scalable test automation frameworks.
+
+I work primarily with:
+- **Playwright** for end-to-end testing
+- **JavaScript**, **TypeScript**, and **Python** for automation scripting
+- **GitHub Actions** for continuous integration and automated test pipelines
+- **Allure** for detailed test reporting
+- **Git** and **GitHub** for version control and collaboration
+
+My passion lies in ensuring software quality through robust testing and streamlined DevOps practices.
+
+
 
 <!--
 **jeff-thoensen/jeff-thoensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
