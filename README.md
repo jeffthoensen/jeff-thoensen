@@ -9,8 +9,6 @@ I work primarily with:
 - **Allure** for detailed test reporting
 - **Git** and **GitHub** for version control and collaboration
 
-My passion lies in ensuring software quality through robust testing and streamlined DevOps practices.
-
 
 
 <!--
