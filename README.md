@@ -2,7 +2,7 @@
 
 ### 🔗 Connect with Me:
 - 🌐 [My Personal Website](https://jeffthoensen.com)
-- 💼 [LinkedIn Profile - Jeff Thoensen](https://www.linkedin.com/in/jeffthoensen/)
+- 💼 [LinkedIn - Jeff Thoensen](https://www.linkedin.com/in/jeffthoensen/)
 
 
 
