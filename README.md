@@ -1,7 +1,7 @@
 ## I'm a Context-Driven Quality Assurance Engineer strong in automation, API, and exploratory testing.
 
 ### 🔗 Connect with Me:
-- 🌐 [My Personal Website](https://www.jeffthoensen.com)
+- 🌐 [My Personal Website](https://jeffthoensen.com)
 - 💼 [LinkedIn Profile - Jeff Thoensen](https://www.linkedin.com/in/jeffthoensen/)
 
 
