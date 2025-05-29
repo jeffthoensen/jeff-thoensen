@@ -1,6 +1,4 @@
-## Hi, I'm Jeff Thoensen 👋
-
-I'm a Context-Driven Quality Assurance Engineer specializing in manual, API testing, and automation.
+## I'm a Context-Driven Quality Assurance Engineer strong in automation, API, and exploratory testing.
 
 ### 🔗 Connect with Me:
 - 🌐 [My Personal Website](https://www.jeffthoensen.com)
