@@ -5,7 +5,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeffthoensen)
 - 🌐 [jeffthoensen.com](https://jeffthoensen.com)
 - 📰 [All my writing](https://jeffthoensen.com/writing)
-- 📊 [Jeff Thoensen on Crunchbase](https://www.crunchbase.com/person/jeff-thoensen)
+- 🧪 [Projects](https://jeffthoensen.com/projects)
+- 📊 [Jeff Thoensen on Crunchbase](https://www.crunchbase.com/person/jeff-thoensen-02b2)
 - 🚀 [Jeff Thoensen on Product Hunt](https://www.producthunt.com/@jeffthoensen)
 - 🗂️ [Jeff Thoensen on Notion](https://jeffthoensen.notion.site/)
 
