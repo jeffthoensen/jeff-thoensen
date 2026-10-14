@@ -2,7 +2,7 @@
 
 ### 🔗 Connect with Jeff Thoensen:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeffthoensen)
+- 💼 [Jeff Thoensen](https://www.linkedin.com/in/jeffthoensen)
 - 🌐 [jeffthoensen.com](https://jeffthoensen.com)
 - 📰 [All my writing](https://jeffthoensen.com/writing)
 - 🧪 [Projects](https://jeffthoensen.com/projects)
